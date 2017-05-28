@@ -1,2 +1,3 @@
 # NumberWizard
-The second game we build in Udemy.com's Unity Game Dev tutorial
+
+Used C# and Unity to create a number guessing game.
